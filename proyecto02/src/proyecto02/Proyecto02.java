@@ -13,8 +13,12 @@ public class Proyecto02 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) 
+    {
+       System.out.println("Ejemplo dos básico de Java");
+       System.out.println("Versionado a traves de Git");
+       System.out.println("Manejado desde GitHub");
+       System.out.println("Ademas se usar GitHubClassroom");
     }
     
 }
